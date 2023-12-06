@@ -1,0 +1,88 @@
+
+---Downloaded files---
+The import files for: Medical Elementor were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/projects/medicalbilling
+Data file = D:\xampp_new\htdocs\projects\medicalbilling/wp-content/uploads/2023/11/demo-content-import-file_2023-11-28__11-09-45.xml
+Widget file = D:\xampp_new\htdocs\projects\medicalbilling/wp-content/uploads/2023/11/demo-widgets-import-file_2023-11-28__11-09-45.json
+Customizer file = D:\xampp_new\htdocs\projects\medicalbilling/wp-content/uploads/2023/11/demo-customizer-import-file_2023-11-28__11-09-45.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "travel_1.jpg" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-oles-kanebckuu-127873" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "pexels-pixabay-208512" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "placeholder-241.png" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Error: Widget import data could not be read. Please try a different file.
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+
